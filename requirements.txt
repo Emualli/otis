@@ -3,7 +3,6 @@ aiohttp
 aiosignal
 altair
 annotated-types
-antiword
 anyio
 apify_client
 apify_shared
