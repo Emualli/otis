@@ -11,4 +11,4 @@ run:
     port: 8000
   secrets:
     - name: DATABASE_SECRET
-      value-from: "arn:arn:aws:secretsmanager:eu-west-3:625766697555:secret:OTIS_DATABASE_URL-c84kHq"
+      value-from: "arn:aws:secretsmanager:eu-west-3:625766697555:secret:OTIS_DATABASE_URL-c84kHq"
